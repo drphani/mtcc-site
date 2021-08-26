@@ -6,15 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Mother Theresa Chest Clinic</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <Header title="Mother Theresa Chest Clinic" />
+        <a href="mailto:drbathiphanikumar@mothertheresachestclinic.org.in">drbathiphanikumar@mothertheresachestclinic.org.in</a>
+        <a href="mailto:bathi70@gmail.com">bathi70@gmail.com</a>
       </main>
 
       <Footer />
